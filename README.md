@@ -4,6 +4,9 @@
 
   A simple app build with the Angular.js framework that renders cards based on an array of data.
   
+  Screenshot:
+  ![screenshot](src/assets/screenshot.png)
+
   ## Table of Contents
   
   - [Installation](#installation)
@@ -15,11 +18,11 @@
   
   ## Installation
   
-  deployed Url:
+  deployed Url:  https://billstephens2022.github.io/Cards-Angular/
   
   ## Usage
   
-  N/A - static site
+  go to deployed URL to view:  https://billstephens2022.github.io/Cards-Angular/
 
   ## License
 This application is covered under the MIT License.
